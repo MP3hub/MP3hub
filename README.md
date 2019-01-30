@@ -9,6 +9,7 @@
   - Select an ouput format and launch the conversion
   - Your file is ready
   - You also can add "LOL" keyword at the beggining of a YouTube video url to download it directly (example: https://www.LOLyoutube.com/watch?v=MkNeIUgNPQ8)
+  - Feb 01 2019 new feature: send a tweet containing a video URL to https://twitter.com/MP3hubDotCom and get an instant reply from it with a download link to this video
 
 # Supported sites
 
@@ -33,10 +34,17 @@ MP3hub is currently allowing you to download videos and music from:
 | Rutube | [Download Rutube video][15] |
 | Tmz | [Download Tmz video][16] |
 | Liveleak | [Download Liveleak video][17] |
-| Xnxx | [Download Xnxx video][18] |
-| Pornhub | [Download Pornhub video][19] |
-| Xvideos | [Download Xvideos video][20] |
-| Youjizz | [Download Youjizz video][21] |
+| Pornhub | [Download Pornhub video][18] |
+| Xvideos | [Download Xvideos video][19] |
+| Xnxx | [Download Xnxx video][20] |
+| Xhamster | [Download Xhamster video][21] |
+| Redtube | [Download Redtube video][22] |
+| Youporn | [Download Youporn video][23] |
+| Spankbang | [Download Spankbang video][24] |
+| Tube8 | [Download Tube8 video][25] |
+| Porn | [Download Porn video][26] |
+| Youjizz | [Download Youjizz video][27] |
+| Tnaflix | [Download Tnaflix video][28] |
 
 [1]: <https://www.mp3hub.com/youtube-to-mp3>
 [2]: <https://www.mp3hub.com/soundcloud-to-mp3>
@@ -55,7 +63,14 @@ MP3hub is currently allowing you to download videos and music from:
 [15]: <https://rutube.ru/>
 [16]: <https://tmz.com/>
 [17]: <https://liveleak.com/>
-[18]: <https://www.xnxx.com/>
-[19]: <https://pornhub.com>
-[20]: <https://www.xvideos.com/>
-[21]: <https://www.youjizz.com/>
+[18]: <https://pornhub.com>
+[19]: <https://www.xvideos.com/>
+[20]: <https://www.xnxx.com/>
+[21]: <https://www.xhamster.com>
+[22]: <https://www.redtube.com>
+[23]: <https://www.youporn.com/>
+[24]: <https://spankbang.com>
+[25]: <https://www.tube8.com/>
+[26]: <https://www.porn.com/>
+[27]: <https://www.youjizz.com/>
+[28]: <https://www.tnaflix.com>
