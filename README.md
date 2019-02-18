@@ -10,6 +10,7 @@
   - Your file is ready
   - You also can add "LOL" keyword at the beggining of a YouTube video url to download it directly (example: https://www.LOLyoutube.com/watch?v=MkNeIUgNPQ8)
   - Feb 01 2019 new feature: send a tweet containing a video URL to https://twitter.com/MP3hubDotCom and get an instant reply from it with a download link to this video
+    - Because a video is better than a long text: https://www.youtube.com/watch?v=5ENm5dQ7VJQ
 
 # Supported sites
 
